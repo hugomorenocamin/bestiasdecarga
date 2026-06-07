@@ -6,7 +6,7 @@ It operates as a critical reflection on labour, self-exploitation, and the physi
 
 The body is treated here not as metaphor, but as an operational site of measurement, extraction, and feedback.
 
-The system translates physiological signals into sound, generating a direct auditory representation of internal bodily rhythms under stress, attention, and exertion.
+The system translates physiological signals into sound, generating a direct physical representation of internal bodily rhythms under stress, attention, and exertion.
 
 ## System Structure
 
@@ -30,27 +30,13 @@ The system translates physiological signals into sound, generating a direct audi
 
 - Firmware (Arduino-based control system)
 
-- Core Functional Elements
-
-- Respiratory sensing via wearable chest band 
-
-- Cardiac signal acquisition
-
-- Signal conditioning and filtering
-
-- Real-time sonification engine
-
-- Audio output mapped to physiological variation
-
 ## Artistic Intent
 
-This work operates at the intersection of bio-sensing, sound art, and critical systems design.
+This work operates at the intersection of bio-sensing and sound art.
 
 It questions:
 
 - the quantification of the body under self-optimization logics
-
-- the normalization of physiological self-monitoring
 
 - the feedback loops between attention, labour, and exhaustion
 
@@ -66,7 +52,7 @@ This project is released for:
 
 - artistic reproduction and reinterpretation
 
-- exhibition in cultural, academic, and artistic contexts
+- exhibition in cultural, academic and artistic contexts
 
 It is not intended for commercial exploitation.
 
