@@ -58,6 +58,8 @@ It is not intended for commercial exploitation.
 
 See ARTISTIC_USE_POLICY.md for detailed terms.
 
+- [Artistic Use Policy](ARTISTIC_USE_POLICY.md)
+
 ## License
 
 All files in this repository are licensed under:
