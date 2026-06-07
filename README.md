@@ -58,7 +58,7 @@ It is not intended for commercial exploitation.
 
 See ARTISTIC_USE_POLICY.md for detailed terms.
 
-- [Artistic Use Policy](ARTISTIC_USE_POLICY.md)
+[Artistic Use Policy](ARTISTIC_USE_POLICY.md)
 
 ## License
 
